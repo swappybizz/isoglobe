@@ -27,3 +27,8 @@
   background-image: linear-gradient(to right, #000000,#464646, #686868);
   transition: all 0.4s ease;
 }
+.textISO{
+  color:transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black
+}

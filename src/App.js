@@ -109,12 +109,12 @@ export default function App() {
         );
       })}
       <p
+      className="textISO"
         style={{
           position: "absolute",
-          fontSize: 30,
+          fontSize: 36,
           fontWeight: "bold",
-          // underline
-          textDecoration: "underline",
+        
         }}
       >
         ISO 9001:2015
